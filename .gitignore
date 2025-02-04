@@ -3,6 +3,7 @@ src/public/**
 src/storage/framework/
 src/storage/logs/
 storage/**
+mysql/
 storage/framework/cache/**
 storage/framework/sessions/**
 storage/framework/views/**
