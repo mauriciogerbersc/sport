@@ -1,0 +1,8 @@
+src/node_modules
+src/public/**
+src/storage/framework/
+src/storage/logs/
+storage/**
+storage/framework/cache/**
+storage/framework/sessions/**
+storage/framework/views/**
