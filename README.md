@@ -4,8 +4,8 @@
 2. criar diretório */mysql* na raíz do projeto 
 3. docker-compose up -d --build
 4. docker-compose run --rm composer update
-5. docker-compose run --rm artisan migrate:fresh --seed
-6. docker-compose run --rm artisan test
+5. docker-compose run --rm artisan test 
+6. docker-compose run --rm artisan migrate:fresh --seed
 
 # Ligar filas
 docker-compose run --rm artisan queue:work
