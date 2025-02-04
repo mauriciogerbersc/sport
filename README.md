@@ -2,7 +2,7 @@
 
 1. baixar repositório
 2. criar diretório */mysql* na raíz do projeto 
-3. docker-compose up --build
+3. docker-compose up -d --build
 4. docker-compose run --rm composer update
 5. docker-compose run --rm artisan migrate:fresh --seed
 6. docker-compose run --rm artisan test
